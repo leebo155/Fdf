@@ -47,7 +47,7 @@
   ◦ When the scale exceeds 50, the program ends.   
   <img alt="image" src="https://github.com/leebo155/Fdf/blob/main/img/fdf6.jpg">
 * Create the window and image to print.   
-  ◦ Using the graphics library minilibx.   
+  ◦ Using the graphics library [`minilibx`](https://github.com/42Paris/minilibx-linux).   
   <img alt="image" src="https://github.com/leebo155/Fdf/blob/main/img/fdf7.jpg">
 * Draw a wire frame to display in the generated image.
   ◦ The method of drawing a wire frame uses two coordinates to create a line and fills that line.   
